@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@napi-rs/canvas": "^0.1.51",
     "axios": "^1.6.8",
     "canvas": "^2.11.2",
     "discord.js": "^14.14.1",
